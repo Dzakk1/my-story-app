@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">CaptureIn</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Abadikan setiap moment penting Anda dengan CaptureIn</string>
+    <string name="title_welcome_page">Selamat Datang!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Masuk Terlebih Dahulu</string>
+    <string name="name">Nama</string>
+    <string name="logout">Keluar</string>
+    <string name="author_story">This is Author</string>
+    <string name="description_story">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="add_button">Add</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="tv_description">Masukan keterangan</string>
+    <string name="upload">Upload</string>
+    <string name="edtDescription">Deskripsi</string>
+    <string name="image_null">Masukan gambar terlebih dahulu</string>
+    <string name="register_header">Daftar</string>
+    <string name="form_email">Email</string>
+    <string name="form_username">Username</string>
+    <string name="form_password">Password</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="menu_location">Location</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="fail_load">Coba lagi</string>
+
+
+</resources>
